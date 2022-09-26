@@ -1,0 +1,5 @@
+compatable browsers are
+safari
+fire fox
+edge
+chrome
